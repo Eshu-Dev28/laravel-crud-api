@@ -67,3 +67,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 laravel single image upload in laravel with crud
 
+Screen shot:
+![Screenshot (9)](https://github.com/user-attachments/assets/9cdc029b-9249-4f33-b23e-cf9d0c345250)
+![Screenshot (10)](https://github.com/user-attachments/assets/66162e4a-af59-4197-a044-d804bd400ad8)
+
+
+
